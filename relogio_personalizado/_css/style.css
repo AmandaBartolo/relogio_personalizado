@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Play&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Play', sans-serif;
+}
+header{
+    margin-top: 80px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 3px #afb1af;
+}
+section{
+    background-color: #e9e9e9;
+    height: 550px;
+    width: 800px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #afb1afc2;
+}
+#horario{
+    padding-top: 38px;
+    font-size: 30px;
+}
+#data{
+    font-size: 30px;
+}
