@@ -28,19 +28,19 @@ let img = document.querySelector("#imagem")
 
 if (horaAgora >= 6 && horaAgora < 12)
 {
-    img.src="_images/manha.png"
+    img.src="manha.png"
     document.body.style.background = "#cba544"
     document.body.style.color = "#cba544"
 }
 else if (horaAgora >=12 && horaAgora < 18)
 {
-    img.src="_images/tarde.png"
+    img.src="tarde.png"
     document.body.style.background = "#bb98a7"
     document.body.style.color = "#bb98a7"
 }
 else
 {
-    img.src="_images/noite.png"
+    img.src="noite.png"
     document.body.style.background = "#394d55"
     document.body.style.color = "#394d55"
 }
