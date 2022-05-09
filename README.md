@@ -13,6 +13,9 @@
  O relógio mostra a hora e os minutos em que a página foi aberta e a data, contendo dia, mês e ano.
  Durante o horário da manhã (06:00 até 11:59) a página tem o layout dia, entre 12:00 e 17:59 tem o layout tarde e entre 18:00 e 05:59 tem o layout noite.
 
+# Link do projeto
+https://amandabartolo.github.io/relogio_personalizado/
+
 # Tecnologias utilizadas
 * HTML
 * CSS
